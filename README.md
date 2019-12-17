@@ -4,35 +4,35 @@
  
  # REQUIREMENTS #
  
- ~ Jailbroken PS3 running CFW
- ~ FTP Server running from PS3 (usually installed when you use Multiman or whatever)
- ~ FileZilla FTP client
+ ~ Jailbroken PS3 running CFW  
+ ~ FTP Server running from PS3 (usually installed when you use Multiman or whatever)  
+ ~ FileZilla FTP client  
  ~ Fallout New Vegas Ultimate Edition (BLUS30888)
  
  # Mods currently included #
  
- ~ **Character Creation** 
+ ~ **Character Creation**   
    - Shorter Doc Introduction  
    - Character Creation
    
- ~ **Passive Startup Messages** 
+ ~ **Passive Startup Messages**   
    - Prevents annoying startup messages during character creation
    
- ~ **Invisible Wall Remover** 
+ ~ **Invisible Wall Remover**  
     - Removes all invisible walls from the vanilla world (I do not think it touches DLC.. requires testing)
  
- ~ **Cheat Terminal** 
+ ~ **Cheat Terminal**  
     - For players who need this, and for fun. [You do not have to use it.]
     
- ~ **NPC Spawn Terminal** 
+ ~ **NPC Spawn Terminal**  
     - For players who need this, and for fun. [You do not have to use it.]
     
- ~ **Two Perks Per Level**
+ ~ **Two Perks Per Level**  
     - Two Perks Per level instead of One  
     - Allows a perk each level instead of not getting a perk per level eventually as in vanilla
     
- ~ **More Perks**
-    - More Perks Mod (MPM) adds more than +120 Perks/Traits. Customize your characters with unique, creative, fun and whacky abilities.
+ ~ **More Perks**  
+    - More Perks Mod (MPM) adds more than +120 Perks/Traits. Customize your characters with unique, creative, fun and whacky abilities.  
     - Includes More Perks, More Traits, More Companion Perks, DLC Perks, and all Updates
     
  # INSTALLATION #
@@ -41,8 +41,8 @@
  
  # KNOWN ISSUES #
  
- ~ Currently unable to load custom MESHES, TEXTURES, and SOUNDS; Not sure how to do it. More testing is required.
- ~ More Perks / More Traits / etc do not have working Textures
+ ~ Currently unable to load custom MESHES, TEXTURES, and SOUNDS; Not sure how to do it. More testing is required.  
+ ~ More Perks / More Traits / etc do not have working Textures  
  ~ Sometimes the game can hardfreeze/lockup and requires manually powering the system down, not sure if this is just a now and then issue, or an issue caused by testing of the various mods.
  
  # GOALS #
