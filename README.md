@@ -32,7 +32,7 @@
     -Allows a perk each level instead of not getting a perk per level eventually as in vanilla
     
  ~ **More Perks**  
-    -More Perks Mod (MPM) adds more than +120 Perks/Traits. Customize your characters with unique, creative, fun and whacky abilities.  
+    -Adds more than +120 Perks/Traits.  
     -Includes More Perks, More Traits, More Companion Perks, DLC Perks, and all Updates
     
  # INSTALLATION #
