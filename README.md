@@ -1,6 +1,6 @@
 # Fallout New Vegas JihadiModPack
 
- Version 0.1 ~ unreleased
+ Version 0.2 ~ unreleased
  
  # REQUIREMENTS #
  
@@ -13,13 +13,13 @@
  
  **Character Creation**  
    -Shorter Doc Introduction  
-   -Character Creation
+   -Shorter Character Creation
    
  **Passive Startup Messages**  
    -Prevents annoying startup messages during character creation
    
  **Invisible Wall Remover**  
-    -Removes all invisible walls from the vanilla world (I do not think it touches DLC.. requires testing)
+    -Removes all invisible walls from the vanilla world
  
  **Cheat Terminal**  
     -For players who need this, and for fun. [You do not have to use it.]
@@ -31,9 +31,9 @@
     -Two Perks Per level instead of One  
     -Allows a perk each level instead of not getting a perk per level eventually as in vanilla
     
- ~ **More Perks**  
+ **More Perks**  
     -Adds more than +120 Perks/Traits.  
-    -Includes More Perks, More Traits, More Companion Perks, DLC Perks, and all Updates
+    -Includes More Perks, More Traits and More Companion Perks [Does not include DLC Perks]
     
  # INSTALLATION #
  
