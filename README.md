@@ -12,7 +12,7 @@
  # Mods currently included #
  
  ~ **Character Creation** 
-   - Shorter Doc Introduction
+   - Shorter Doc Introduction  
    - Character Creation
    
  ~ **Passive Startup Messages** 
@@ -28,7 +28,7 @@
     - For players who need this, and for fun. [You do not have to use it.]
     
  ~ **Two Perks Per Level**
-    - Two Perks Per level instead of One
+    - Two Perks Per level instead of One  
     - Allows a perk each level instead of not getting a perk per level eventually as in vanilla
     
  ~ **More Perks**
