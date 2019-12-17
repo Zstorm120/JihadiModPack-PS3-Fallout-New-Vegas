@@ -11,33 +11,33 @@
  
  # Mods currently included #
  
- ~ **Character Creation**  
-   - Shorter Doc Introduction  
-   - Character Creation
+ **Character Creation**  
+   -Shorter Doc Introduction  
+   -Character Creation
    
- ~ **Passive Startup Messages**  
-   - Prevents annoying startup messages during character creation
+ **Passive Startup Messages**  
+   -Prevents annoying startup messages during character creation
    
- ~ **Invisible Wall Remover**  
-    - Removes all invisible walls from the vanilla world (I do not think it touches DLC.. requires testing)
+ **Invisible Wall Remover**  
+    -Removes all invisible walls from the vanilla world (I do not think it touches DLC.. requires testing)
  
- ~ **Cheat Terminal**  
-    - For players who need this, and for fun. [You do not have to use it.]
+ **Cheat Terminal**  
+    -For players who need this, and for fun. [You do not have to use it.]
     
- ~ **NPC Spawn Terminal**  
-    - For players who need this, and for fun. [You do not have to use it.]
+ **NPC Spawn Terminal**  
+    -For players who need this, and for fun. [You do not have to use it.]
     
- ~ **Two Perks Per Level**  
-    - Two Perks Per level instead of One  
-    - Allows a perk each level instead of not getting a perk per level eventually as in vanilla
+ **Two Perks Per Level**  
+    -Two Perks Per level instead of One  
+    -Allows a perk each level instead of not getting a perk per level eventually as in vanilla
     
  ~ **More Perks**  
-    - More Perks Mod (MPM) adds more than +120 Perks/Traits. Customize your characters with unique, creative, fun and whacky abilities.  
-    - Includes More Perks, More Traits, More Companion Perks, DLC Perks, and all Updates
+    -More Perks Mod (MPM) adds more than +120 Perks/Traits. Customize your characters with unique, creative, fun and whacky abilities.  
+    -Includes More Perks, More Traits, More Companion Perks, DLC Perks, and all Updates
     
  # INSTALLATION #
  
- ~ Pretty simple installation.. You just move these files in the Modpack to the dev_hdd0/GAMES/BLUS30888 where the original ones are.
+ Pretty simple installation.. You just move these files in the Modpack to the dev_hdd0/GAMES/BLUS30888 where the original ones are.
  
  # KNOWN ISSUES #
  
