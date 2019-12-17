@@ -11,11 +11,11 @@
  
  # Mods currently included #
  
- ~ **Character Creation**   
+ ~ **Character Creation**  
    - Shorter Doc Introduction  
    - Character Creation
    
- ~ **Passive Startup Messages**   
+ ~ **Passive Startup Messages**  
    - Prevents annoying startup messages during character creation
    
  ~ **Invisible Wall Remover**  
