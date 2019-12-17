@@ -1,4 +1,4 @@
-# Fallout New Vegas JihadiModpack
+# Fallout New Vegas JihadiModPack
  Version 0.1
  
  # REQUIREMENTS #
