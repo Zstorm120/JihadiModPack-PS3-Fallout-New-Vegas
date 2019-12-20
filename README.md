@@ -19,45 +19,45 @@
    - Prevents annoying startup messages during character creation
    
  **Invisible Wall Remover**  
-    - Removes all invisible walls from the vanilla world
+   - Removes all invisible walls from the vanilla world
  
  **Cheat Terminal**  
-    - For players who need this, and for fun [You do not have to use it]
+   - For players who need this, and for fun [You do not have to use it]
     
  **NPC Spawn Terminal**  
-    - For players who need this, and for fun [You do not have to use it]
+   - For players who need this, and for fun [You do not have to use it]
     
  **Two Perks Per Level**  
-    - Two Perks Per level instead of One  
-    - Allows a perk each level instead of not getting a perk per level eventually as in vanilla
+   - Two Perks Per level instead of One  
+   - Allows a perk each level instead of not getting a perk per level eventually as in vanilla
     
  **More Perks**  
-    - Adds more than +120 Perks/Traits
-    - Includes More Perks, More Traits and More Companion Perks [Does not include More DLC Perks]
+   - Adds more than +120 Perks/Traits
+   - Includes More Perks, More Traits and More Companion Perks [Does not include More DLC Perks]
     
  **Oven Cooking**  
-    - Allows you to cook/craft on all ovens in the game (the same things you can make with a campfire) with a chance, based on your luck, that they need to be repaired first. This is done with a pilot light and a sufficient repair or survival skill. Now the ovens are actually useful, being a common alternative to the campfire
+   - Allows you to cook/craft on all ovens in the game (the same things you can make with a campfire) with a chance, based on your luck, that they need to be repaired first. This is done with a pilot light and a sufficient repair or survival skill. Now the ovens are actually useful, being a common alternative to the campfire
   
  **Continue After Game Ending**  
-    - This mod will allow you to play on after the game's ending. The slideshow will begin and you will then be loaded into the Wasteland. You will be able to do quests, explore and play other mods normally
+   - Allows you to play on after the game's ending. The slideshow will begin and you will then be loaded into the Wasteland. You will be able to do quests, explore and play other mods normally
     
   **Fallout Shelter Player Home**  
-    - A bunker built to withstand several nuclear blasts has been sealed for 200 years as its previous owner died before he could rush to the safety if his bunker he spent a fortune on 
-    - Located in Bonnie Springs awaiting it's new owner
+   - A bunker built to withstand several nuclear blasts has been sealed for 200 years as its previous owner died before he could rush to the safety if his bunker he spent a fortune on 
+   - Located in Bonnie Springs awaiting it's new owner
     
    **Goodsprings Safehouse Player Home**  
-    - Makes the house on the northern border of Goodsprings into a safehouse
-    - Adds a player home in Goodsprings with plenty of containers and a table for storage, My First Infirmary, Workbench, Reloading Bench and Campfire, adrmoury room, safehouse bed, two unique weapons that can also be crafted and pickable plants
+   - Makes the house on the northern border of Goodsprings into a safehouse
+   - Adds a player home in Goodsprings with plenty of containers and a table for storage, My First Infirmary, Workbench, Reloading Bench and Campfire, adrmoury room, safehouse bed, two unique weapons that can also be crafted and pickable plants
     
   **Realtime Player Death**  
-    - Makes player's death realtime, so no more slow motion and increases death reload time to 10 seconds, all other effects, such as desaturation and radial blur are still there
+   - Makes player's death realtime, so no more slow motion and increases death reload time to 10 seconds, all other effects, such as desaturation and radial blur are still there
     
   **No Fast Travel**  
-    - Disables the Fast Travel system to allow for more realism and immersion instead of being able to teleport
+   - Disables the Fast Travel system to allow for more realism and immersion instead of being able to teleport
  
   **Better Casinos**  
-    - Better Casinos increases the winning cap and maximum bet for all casinos and each casino has its own unique maximum bet and winning limit set to it
-    - The new maximum bets and winning limits are as follows:
+   - Better Casinos increases the winning cap and maximum bet for all casinos and each casino has its own unique maximum bet and winning limit set to it
+   - The new maximum bets and winning limits are as follows:
         Vikki & Vance Casino - 250 chips Max Bet / 7,500 chips Max Winnings
         Atomic Wrangler - 500 chips Max Bet / 15,000 chips Max Winnings
         Gommorah - 1,000 chips Max Bet / 45,000 chips Max Winnings
@@ -65,10 +65,10 @@
         Ultra Luxe - 10,000 chips Max Bet / 150,000 chips Max Winnings
         
   **Killable Children**  
-    - You're able to kill those little shits now
+   - You're able to kill those little shits now
          
   **Grinding Wheel**  
-    - Turns the non-interactive Grinding Wheel found at Caesar's Legion camps into a workstation you can use to sharpen (repair) your bladed weapons
+   - Turns the non-interactive Grinding Wheel found at Caesar's Legion camps into a workstation you can use to sharpen (repair) your bladed weapons
  
  # INSTALLATION #
  
