@@ -57,12 +57,12 @@
  
   **Better Casinos**  
    - Better Casinos increases the winning cap and maximum bet for all casinos and each casino has its own unique maximum bet and winning limit set to it
-   - The new maximum bets and winning limits are as follows:
-        Vikki & Vance Casino - 250 chips Max Bet / 7,500 chips Max Winnings
-        Atomic Wrangler - 500 chips Max Bet / 15,000 chips Max Winnings
-        Gommorah - 1,000 chips Max Bet / 45,000 chips Max Winnings
-        The Tops Casino - 5,000 chips Max Bet / 75,000 chips Max Winnings
-        Ultra Luxe - 10,000 chips Max Bet / 150,000 chips Max Winnings
+   - The new maximum bets and winning limits are as follows:  
+        Vikki & Vance Casino - 250 chips Max Bet / 7,500 chips Max Winnings  
+        Atomic Wrangler - 500 chips Max Bet / 15,000 chips Max Winnings  
+        Gommorah - 1,000 chips Max Bet / 45,000 chips Max Winnings  
+        The Tops Casino - 5,000 chips Max Bet / 75,000 chips Max Winnings  
+        Ultra Luxe - 10,000 chips Max Bet / 150,000 chips Max Winnings  
         
   **Killable Children**  
    - You're able to kill those little shits now
