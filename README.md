@@ -16,7 +16,8 @@
    - Shorter Character Creation
    
  **Passive Startup Messages**  
-   - Prevents annoying startup messages during character creation
+   - Prevents annoying vanilla startup messages during character creation
+   - A few mods messages still show such as More Perks - Can be fixed later when I learn more
    
  **Invisible Wall Remover**  
    - Removes all invisible walls from the vanilla world
